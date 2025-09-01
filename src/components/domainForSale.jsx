@@ -95,7 +95,7 @@ export default function DomainForSale() {
 
         <div className="flex items-center justify-center">
           <img
-            src="/images/illustration.png"
+            src="/images/ImageOne.png"
             alt="Center Illustration"
             className="w-full h-auto sm:w-[50vw] sm:max-w-[600px] object-contain float"
           />
