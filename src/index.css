@@ -10,6 +10,10 @@
   font-display: swap;
 }
 
+body{
+    background:#f8f8f0;
+}
+
 @layer base {
   html {
     font-family: "Voyage", serif !important;
